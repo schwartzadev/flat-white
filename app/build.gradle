@@ -18,11 +18,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.afollestad.polar"
+        applicationId "com.aschwartz.flatwhite"
         minSdkVersion 17
         targetSdkVersion 23
-        versionCode 21
-        versionName "1.5.1"
+        versionCode 5
+        versionName "0.5"
     }
 
     buildTypes {

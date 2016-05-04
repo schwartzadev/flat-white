@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.LinearLayout;
 
-import com.afollestad.polar.R;
+// import com.afollestad.polar.R;
 
 /**
  * @author Aidan Follestad (afollestad)

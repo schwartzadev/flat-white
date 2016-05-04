@@ -1,8 +1,8 @@
 <resources>
 
     <!-- App Strings -->
-    <string name="app_name">Polar</string>
-    <string name="app_name_wallpaper">Polar Wallpaper</string>
+    <string name="app_name">Flat White</string>
+    <string name="app_name_wallpaper">Flat White Wallpaper</string>
 
     <string name="wallpapers">Wallpapers</string>
     <string name="icons">Icons</string>

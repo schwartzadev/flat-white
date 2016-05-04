@@ -2,17 +2,17 @@
 <resources>
 
     <!-- True enables the nav drawer layout -->
-    <bool name="nav_drawer_mode_default">false</bool>
+    <bool name="nav_drawer_mode_default">true</bool>
     <!-- Good for testing to switch between tabs and nav drawer, true shows a checkbox option in the overflow menu -->
-    <bool name="allow_nav_drawer_mode_switch">true</bool>
+    <bool name="allow_nav_drawer_mode_switch">false</bool>
 
     <!-- True enables the homepage -->
     <bool name="homepage_enabled">true</bool>
     <string name="homepage_description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet pretium ex. Aenean eu semper ligula. Disable the homepage from /res/values/dev_options.xml.
+        This application is in beta. Please contact me at aschwartzdev@gmail.com for your suggestions and opinion. You can really help me out by submitting an icon request for all your apps that do not already have an icon. Thanks for your support.
     </string>
     <!-- The large icon displayed in the home page -->
-    <drawable name="homepage_landing_icon">@drawable/ic_web</drawable>
+    <drawable name="homepage_landing_icon">@drawable/homescreen_icon_temp</drawable>
 
     <!-- URL to JSON file containing a map of wallpapers, leave empty to disable wallpapers. -->
     <string name="wallpapers_json_url" formatted="false">
@@ -20,7 +20,7 @@
     </string>
 
     <!-- Email used to send icon requests, leave empty to disable this feature. -->
-    <string name="icon_request_email">fake-email@fake-website.com</string>
+    <string name="icon_request_email">aschwartzdev@gmail.com</string>
 
     <!-- Max number of icons that can be sent per request. -1 disables max count. The interval must ALSO be set below. -->
     <integer name="icon_request_maxcount">-1</integer>
@@ -33,7 +33,7 @@
         If you want days:    [seconds] = [days] * 86400
         If you want weeks:   [seconds] = [weeks] * 604800
     -->
-    <integer name="icon_request_limit_interval">-1</integer>
+    <integer name="icon_request_limit_interval">18000</integer>
 
     <!-- Public Base64 from the developer console for license checking, optional -->
     <string name="licensing_public_key"></string>
@@ -42,7 +42,7 @@
     <bool name="persist_selected_page">true</bool>
 
     <!-- Email used to send feedback, leave empty to disable this feature. -->
-    <string name="feedback_email">fake-email@fake-website.com</string>
+    <string name="feedback_email">aschwartzdev@gmail.com</string>
 
     <!-- %1$s gets replaced with the name of your icon pack -->
     <string name="feedback_subject_line">%1$s Feedback</string>
@@ -56,8 +56,8 @@
 
     <!-- Names of donation options, e.g. "Buy me a pizza!" -->
     <string-array name="donate_option_names">
-        <item>Buy me a soda! ($0.99)</item>
-        <item>Buy me a burger! ($5.00)</item>
+        <item>Buy me a soda! ($1.00)</item>
+        <item>Buy me a coffee! ($3.00)</item>
         <item>Buy me a pizza! ($10.00)</item>
         <item>Buy me a meal! ($20.00)</item>
     </string-array>

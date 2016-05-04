@@ -18,28 +18,30 @@
     </string-array>
 
     <string-array name="about_titles">
-        <item>You</item>
+        <item>Andrew Schwartz</item>
         <item>Aidan Follestad</item>
         <item>Tom Wellington</item>
         <item>Daniel Ciao</item>
     </string-array>
 
     <string-array name="about_descriptions">
-        <item formatted="false"><![CDATA[This is definitely a placeholder<br><i>This is where your contribution would go</i>]]></item>
+        <item formatted="false"><![CDATA[I like programming, music &amp; many other things<br><i>I made the icons for this app</i>]]></item>
         <item formatted="false"><![CDATA[I like rock/metal, programming, &amp; cars<br/><i>I made the dashboard happen &amp; helped design it</i>]]></item>
         <item formatted="false"><![CDATA[I like rap, coffee, &amp; UI design<br/><i>I designed the dashboard</i>]]></item>
         <item formatted="false"><![CDATA[I like playing piano, doing puzzles, &amp; making apps<br/><i>I primarily helped with animations and UI</i>]]></item>
     </string-array>
 
     <string-array name="about_buttons_names">
-        <item>Website|Google+</item>
+        <item>Website Coming Soon|Email</item>
         <item>Website|Google+|LinkedIn</item>
         <item>Dribbble|Google+</item>
         <item>Website|Google+|GitHub</item>
     </string-array>
 
     <string-array name="about_buttons_links">
-        <item>http://aidanfollestad.com|https://google.com/+AidanFollestad</item>
+        <item>http://google.com|<a href="mailto:aschwartzdev@gmail.com? »
+    subject=Flat White Icon Pack"> </a>
+        </item>
         <item>http://aidanfollestad.com|https://google.com/+AidanFollestad|https://www.linkedin.com/in/afollestad</item>
         <item>https://dribbble.com/tomwellington|https://google.com/+TomWellington24</item>
         <item>http://www.pluscubed.com|https://plus.google.com/+DanielCiao|https://github.com/plusCubed</item>
