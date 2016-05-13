@@ -6,6 +6,7 @@ import android.app.FragmentManager;
 
 import com.afollestad.polar.util.PagesBuilder;
 import com.afollestad.polar.viewer.FragmentStatePagerAdapter;
+import android.view.View;
 
 /**
  * @author Aidan Follestad (afollestad)
@@ -17,6 +18,9 @@ public class MainPagerAdapter extends FragmentStatePagerAdapter {
     public MainPagerAdapter(FragmentManager fm, PagesBuilder pages) {
         super(fm);
         mPages = pages;
+    }
+    public void onClick(View v) {
+
     }
 
     @Override

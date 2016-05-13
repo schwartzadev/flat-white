@@ -4,10 +4,14 @@
     <bool name="changelog_enabled">true</bool>
 
     <string-array name="changelog" translatable="false">
-        <item><![CDATA[ <b>v. 0.5</b> ]]></item>
-        <item><![CDATA[ New app for the Icon Pack]]></item>
-        <item><![CDATA[ New app icon]]></item>
-        <item><![CDATA[ Many more icons to come soon!]]></item>
+        <item><![CDATA[ <b>BETA 0.7 (v7)</b> ]]></item>
+        <item><![CDATA[ 62 New icons ]]></item>
+        <item><![CDATA[ Instagram 8.0 Icon ]]></item>
+        <item><![CDATA[ New app drawer icons ]]></item>
+        <item><![CDATA[ <b>BETA 0.6 (v6)</b> ]]></item>
+        <item><![CDATA[ 82 New icons ]]></item>
+        <item><![CDATA[ More fixes for the dashboard ]]></item>
+        <item><![CDATA[ New wallpapers ]]></item>
     </string-array>
 
 </resources>

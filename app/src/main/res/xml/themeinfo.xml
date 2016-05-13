@@ -1,9 +1,9 @@
 <themeInfo>
     <packageName>com.aschwartz.flatwhite</packageName>
-    <versionName>0.5</versionName>
-    <versionCode>5</versionCode>
+    <versionName>0.6</versionName>
+    <versionCode>6</versionCode>
     <themeName>Flat White Icon Pack</themeName>
-    <themePointColor>#3ABBC9</themePointColor>
-    <themePreview img1="polar_preview" />
-    <preview img1="polar_preview" />
+    <themePointColor>#4FC3F7</themePointColor>
+    <themePreview img1="preview" />
+    <preview img1="preview" />
 </themeInfo>

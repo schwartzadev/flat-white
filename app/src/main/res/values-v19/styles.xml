@@ -6,6 +6,9 @@
     <style name="AppTheme.Light" parent="Base.AppTheme.Light">
         <item name="android:windowTranslucentNavigation">@bool/translucent_nav</item>
         <item name="android:windowTranslucentStatus">@bool/translucent_status</item>
+        <item name="colorPrimary">@color/primary_1_dark</item>
+        <item name="colorPrimaryDark">@color/primary_2_dark</item>
+        <item name="colorAccent">@color/accent_1_dark</item>
     </style>
 
     <!-- Dark Theme -->

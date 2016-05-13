@@ -2,25 +2,26 @@
 <resources>
 
     <!-- True enables the nav drawer layout -->
-    <bool name="nav_drawer_mode_default">true</bool>
+    <bool name="nav_drawer_mode_default">false</bool>
     <!-- Good for testing to switch between tabs and nav drawer, true shows a checkbox option in the overflow menu -->
     <bool name="allow_nav_drawer_mode_switch">false</bool>
 
     <!-- True enables the homepage -->
-    <bool name="homepage_enabled">true</bool>
+    <bool name="homepage_enabled">false</bool>
     <string name="homepage_description">
-        This application is in beta. Please contact me at aschwartzdev@gmail.com for your suggestions and opinion. You can really help me out by submitting an icon request for all your apps that do not already have an icon. Thanks for your support.
+        Flat White provides a a clean, minimalist look for your Android device.<br></br>
+        <b><a href="http://goo.gl/forms/Wppdz966cZ">Please consider taking a survey to improve this app.</a></b>
     </string>
     <!-- The large icon displayed in the home page -->
-    <drawable name="homepage_landing_icon">@drawable/homescreen_icon_temp</drawable>
+    <drawable name="homepage_landing_icon">@drawable/ic_web</drawable>
 
     <!-- URL to JSON file containing a map of wallpapers, leave empty to disable wallpapers. -->
     <string name="wallpapers_json_url" formatted="false">
-        https://raw.githubusercontent.com/afollestad/polar_json/master/wallpapers.json
+        https://raw.githubusercontent.com/werdna3232/flat-white-json/master/flat_white.json
     </string>
 
     <!-- Email used to send icon requests, leave empty to disable this feature. -->
-    <string name="icon_request_email">aschwartzdev@gmail.com</string>
+    <string name="icon_request_email">schwartzadev@gmail.com</string>
 
     <!-- Max number of icons that can be sent per request. -1 disables max count. The interval must ALSO be set below. -->
     <integer name="icon_request_maxcount">-1</integer>
@@ -33,7 +34,7 @@
         If you want days:    [seconds] = [days] * 86400
         If you want weeks:   [seconds] = [weeks] * 604800
     -->
-    <integer name="icon_request_limit_interval">18000</integer>
+    <integer name="icon_request_limit_interval">60</integer>
 
     <!-- Public Base64 from the developer console for license checking, optional -->
     <string name="licensing_public_key"></string>
@@ -42,7 +43,7 @@
     <bool name="persist_selected_page">true</bool>
 
     <!-- Email used to send feedback, leave empty to disable this feature. -->
-    <string name="feedback_email">aschwartzdev@gmail.com</string>
+    <string name="feedback_email">schwartzadev@gmail.com</string>
 
     <!-- %1$s gets replaced with the name of your icon pack -->
     <string name="feedback_subject_line">%1$s Feedback</string>
@@ -52,12 +53,13 @@
         Leave empty to disable the donation function.
     -->
     <string name="donate_license_key">
+
     </string>
 
     <!-- Names of donation options, e.g. "Buy me a pizza!" -->
     <string-array name="donate_option_names">
-        <item>Buy me a soda! ($1.00)</item>
-        <item>Buy me a coffee! ($3.00)</item>
+        <item>Buy me a soda! ($0.99)</item>
+        <item>Buy me a burger! ($5.00)</item>
         <item>Buy me a pizza! ($10.00)</item>
         <item>Buy me a meal! ($20.00)</item>
     </string-array>
@@ -84,6 +86,6 @@
         If set to true, Polar will fallback to sending an email for icon requests IF
         Request manager upload fails (e.g. if the server is down temporarily).
     -->
-    <bool name="polar_backend_email_fallback">false</bool>
+    <bool name="polar_backend_email_fallback">true</bool>
 
 </resources>

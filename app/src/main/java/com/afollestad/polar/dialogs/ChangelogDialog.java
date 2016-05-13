@@ -12,11 +12,11 @@ import com.afollestad.materialdialogs.GravityEnum;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.afollestad.polar.R;
 import com.afollestad.polar.adapters.BulletPointListViewAdapter;
-
-
+import android.text.Html;
+import android.app.Dialog;
 /**
  * @author Aidan Follestad (afollestad)
- */
+*/
 public class ChangelogDialog extends DialogFragment {
 
     public static void show(AppCompatActivity context) {
@@ -36,6 +36,8 @@ public class ChangelogDialog extends DialogFragment {
                 .titleColorAttr(R.attr.colorAccent)
                 .adapter(new BulletPointListViewAdapter(getActivity(), R.array.changelog), null)
                 .positiveText(R.string.cool)
+            //    .content(Html.fromHtml(getString(R.array.changelog)))
                 .build();
     }
 }
+

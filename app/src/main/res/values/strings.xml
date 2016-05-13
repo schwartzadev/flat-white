@@ -16,8 +16,10 @@
     <string name="finish_holo_apply">Go To Appearance settings -> Icon Packs and select this icon pack from the list.</string>
     <string name="finish_go_apply">Go theme applied!</string>
     <string name="dismiss">Dismiss</string>
-    <string name="muzei_description">Polar wallpapers.</string>
+    <string name="muzei_description">Flat White Wallpapers</string>
+    <string name="survey_prompt">Would u like to take a survey?</string>
     <string name="changelog" translatable="false">Changelog</string>
+    <string name="survey" translatable="false">Survey</string>
     <string name="error">Error</string>
     <string name="search_icons">Search icons…</string>
     <string name="no_results">No results</string>
@@ -42,7 +44,8 @@
     <string name="more">MORE</string>
     <string name="more_x">MORE (%1$d)</string>
     <string name="select_all">Select All</string>
-    <string name="cool">Cool</string>
+    <string name="cool">Cool!</string>
+    <string name="cancel">Cancel!</string>
     <string name="dark_theme">Dark Theme</string>
     <string name="invalid_drawable_error"><![CDATA[Invalid drawable <b>%1$s</b>, the developer needs to fix this in <b>/res/xml/drawable.xml</b> and <b>/assets/drawable.xml</b>.]]></string>
     <string name="set_wallpaper_using">Set Wallpaper Using…</string>
@@ -69,11 +72,11 @@
     <string name="permission_needed_request_desc"><![CDATA[ <b>%1$s</b> needs permission to access your phone\'s storage in order to generate an icon request!]]></string>
     <string name="permission_needed_zooper_desc"><![CDATA[ <b>%1$s</b> needs permission to access your phone\'s storage in order to save Zooper assets!]]></string>
     <string name="download_cancelled">Download cancelled!</string>
-    <string name="cmte_unavailable">CyanogenMod Theme Engine is not available to this device.</string>
-    <string name="lghome_unavailable">LG Home is not available to this device.</string>
+    <string name="cmte_unavailable">CyanogenMod Theme Engine is not available on your device.</string>
+    <string name="lghome_unavailable">LG Home is not available on your device.</string>
     <string name="feedback">Feedback</string>
     <string name="donate">Donate</string>
-    <string name="thank_you_donation">Thank you for your generosity!</string>
+    <string name="thank_you_donation">Thank you for your donation!</string>
     <string name="donation_error">An error occurred during donation: %1$s</string>
     <string name="email_using">Email using…</string>
     <string name="unable_to_contact_server">Unable to contact the server! Check your internet connection.</string>

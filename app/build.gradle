@@ -7,7 +7,7 @@ android {
     applicationVariants.all { variant ->
         variant.outputs.each { output ->
             output.outputFile = new File(
-                    output.outputFile.parent, "MyPolarPack-${variant.versionName}.apk")
+                    output.outputFile.parent, "FlatWhite-${variant.versionName}.apk")
         }
     }
 
@@ -21,8 +21,8 @@ android {
         applicationId "com.aschwartz.flatwhite"
         minSdkVersion 17
         targetSdkVersion 23
-        versionCode 5
-        versionName "0.5"
+        versionCode 7
+        versionName "0.7"
     }
 
     buildTypes {
@@ -51,14 +51,14 @@ dependencies {
     compile('com.github.afollestad.material-dialogs:core:0.8.5.8@aar') {
         transitive = true
     }
-    compile('com.github.afollestad:drag-select-recyclerview:0.3.4@aar') {
+    compile('com.github.afollestad:drag-select-recyclerview:56eccc10c7@aar') {
         transitive = true
     }
 
     compile 'com.github.afollestad:bridge:3.2.1'
     compile 'com.github.afollestad:sectioned-recyclerview:0.2.2'
     compile 'com.github.afollestad:assent:0.2.2'
-    compile 'com.github.afollestad:inquiry:b13a58b902'
+    compile 'com.github.afollestad:inquiry:ac638bf1e8'
     compile 'com.github.afollestad:icon-request:1.3.5'
 
     compile 'me.zhanghai.android.materialprogressbar:library:1.1.5'

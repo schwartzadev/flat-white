@@ -6,8 +6,8 @@
     <string name="authorName">Andrew Schwartz</string>
     <string name="developerName">Andrew Schwartz</string>
     <string name="developer_name">Andrew Schwartz</string>
-    <string name="developer_link">Coming Soon</string>
-    <string name="theme_description">Minimalist, unique white icon pack for custom launchers</string>
-    <string name="theme_preview1">preview1</string>
+    <string name="developer_link">http://websitecomingsoon.com</string>
+    <string name="theme_description">A qnique, minimalist icon pack.</string>
+    <string name="theme_preview1">preview</string>
 
 </resources>
