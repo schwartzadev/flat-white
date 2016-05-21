@@ -4,6 +4,21 @@
     <iconmask img1="iconmask" />
     <iconupon img1="iconupon" />-->
     <scale factor=".75" />
+    <item component="ComponentInfo{net.zedge.android/net.zedge.android.Main}" drawable="zedge" />
+    <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="google_photos" />
+    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate" />
+    <item component="ComponentInfo{com.nextradioapp.nextradio/com.nextradioapp.nextradio.activities.SplashScreen}" drawable="next_radio" />
+    <item component="ComponentInfo{tv.peel.app/com.peel.main.Main}" drawable="peel" />
+    <item component="ComponentInfo{com.cequint.ecid/com.cequint.hs.client.frontend.WebShell}" drawable="vzw_id" />
+    <item component="ComponentInfo{com.vzw.hs.android.modlite/com.vzw.hs.android.modlite.VTonesLauncher}" drawable="vzw_tones" />
+    <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="calculator" />
+    <item component="ComponentInfo{com.facebook.pages.app/com.facebook.pages.app.activity.PagesManagerLoginActivity}" drawable="fb_pages" />
+    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads" />
+    <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="pocket" />
+    <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="pocket_casts" />
+    <item component="ComponentInfo{com.strava/com.strava.SplashActivity}" drawable="strava" />
+    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook" />
     <item component="ComponentInfo{com.koushikdutta.cast/com.koushikdutta.cast.SearchActivity}" drawable="allcast" />
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova_settings" />
     <item component="ComponentInfo{com.king.candycrushsaga/com.king.candycrushsaga.CandyCrushSagaActivity}" drawable="candy_crush" />
@@ -274,9 +289,9 @@
     <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_" />
     <calendar component="ComponentInfo{com.boxer.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_" />
     <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_" />
-    <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_31" />
-    <calendar component="ComponentInfo{com.boxer.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_31" />
-    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_31" />
+    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_31" />
+    <item component="ComponentInfo{com.boxer.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_31" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_31" />
     <item component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator}" drawable="calculator"/>
     <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.piriform.ccleaner/com.piriform.ccleaner.ui.activity.MainActivity}" drawable="ccleaner" />
@@ -406,6 +421,7 @@
     <item component="ComponentInfo{com.mapmywalk.android2/com.mapmyfitness.android.activity.core.HostActivity}" drawable="map_my_walk"/>
 
     <item component="ComponentInfo{com.htc.notes/com.htc.notes.collection.NoteCollectionActivity}" drawable="maps"/>
+    <item component="ComponentInfo{com.vzw.hss.myverizonged/com.vzw.hss.myverizon.ui.activities.LauncherActivity}" drawable="my_verizon_mobile"/>
     <item component="ComponentInfo{com.vzw.hss.myverizon/com.vzw.hss.myverizon.ui.activities.LauncherActivity}" drawable="my_verizon_mobile"/>
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewTabletActivity}" drawable="netflix" />
@@ -422,6 +438,7 @@
     <item component="ComponentInfo{com.wPaypalMobile/com.wPaypalMobile.MainNavigationActivity}" drawable="paypal" />
     <!-- PHONE -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivityForDialpad}" drawable="phone" />

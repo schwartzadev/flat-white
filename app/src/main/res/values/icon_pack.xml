@@ -8,8 +8,7 @@
     <string-array name="tabs">
     </string-array>
 -->
-    <string-array name="icon_pack" translatable="false">
-        <item>ac_display</item>
+    <string-array name="icon_pack" translatable="false">        <item>ac_display</item>
         <item>accuweather</item>
         <item>adaway</item>
         <item>adobe_air</item>
@@ -82,6 +81,7 @@
         <item>dolphin_browser</item>
         <item>dominos</item>
         <item>doodle_jump</item>
+        <item>downloads</item>
         <item>doze</item>
         <item>drive</item>
         <item>dropbox</item>
@@ -102,6 +102,7 @@
         <item>facebook</item>
         <item>fandango</item>
         <item>fb_messenger</item>
+        <item>fb_pages</item>
         <item>fidelity</item>
         <item>files</item>
         <item>firstbank</item>
@@ -130,12 +131,15 @@
         <item>google_fit</item>
         <item>google_keyboard</item>
         <item>google_messenger</item>
+        <item>google_now_launcher</item>
         <item>google_opinion_rewards</item>
         <item>google_pdf_viewer</item>
+        <item>google_photos</item>
         <item>google_plus</item>
         <item>google_settings</item>
         <item>google_sheets</item>
         <item>google_slides</item>
+        <item>google_translate</item>
         <item>google</item>
         <item>greenify</item>
         <item>groupon</item>
@@ -192,6 +196,7 @@
         <item>netflix</item>
         <item>nevolution</item>
         <item>news_republic</item>
+        <item>next_radio</item>
         <item>nfc_tools</item>
         <item>nfl_fantasy</item>
         <item>nfl_mobile</item>
@@ -211,10 +216,12 @@
         <item>online_nandroid_backup</item>
         <item>open_camera</item>
         <item>open_table</item>
+        <item>outlook</item>
         <item>overdrive</item>
         <item>pancake</item>
         <item>pandora</item>
         <item>paypal</item>
+        <item>peel</item>
         <item>phone</item>
         <item>pics_art</item>
         <item>pinterest</item>
@@ -225,6 +232,8 @@
         <item>play_music</item>
         <item>play_news</item>
         <item>play_store</item>
+        <item>pocket_casts</item>
+        <item>pocket</item>
         <item>polaris_office</item>
         <item>power_clean</item>
         <item>powerpoint</item>
@@ -263,6 +272,7 @@
         <item>starbucks</item>
         <item>stickmount</item>
         <item>storage_analyzer</item>
+        <item>strava</item>
         <item>street_view</item>
         <item>stumble_upon</item>
         <item>supersu</item>
@@ -308,9 +318,11 @@
         <item>vsco</item>
         <item>vzw_accessories</item>
         <item>vzw_cloud</item>
+        <item>vzw_id</item>
         <item>vzw_messages</item>
         <item>vzw_navigator</item>
         <item>vzw_protect</item>
+        <item>vzw_tones</item>
         <item>wallrox</item>
         <item>waze</item>
         <item>weather_bug</item>
@@ -334,6 +346,7 @@
         <item>youtube</item>
         <item>yt_music</item>
         <item>zarchiver</item>
+        <item>zedge</item>
         <item>zooper_widget_free</item>
         <item>zooper_widget_pro</item>
     </string-array>

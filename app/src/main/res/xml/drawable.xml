@@ -3,76 +3,23 @@
     <version>1</version>
 
     <category title="New Icons" />
-    <item drawable="ac_display"/>
-    <item drawable="accuweather" />
-    <item drawable="allcast" />
-    <item drawable="american_airlines" />
-    <item drawable="android_auto" />
-    <item drawable="android_pay"/>
-    <item drawable="authy" />
-    <item drawable="aviary"/>
-    <item drawable="backdrops"/>
-    <item drawable="bing_rewards" />
-    <item drawable="bing_search" />
-    <item drawable="buzzfeed" />
-    <item drawable="buzzfeed_video" />
-    <item drawable="candy_crush" />
-    <item drawable="catch_game" />
-    <item drawable="checkpoints" />
-    <item drawable="cloud_vpn" />
-    <item drawable="coinbase" />
-    <item drawable="du_clean" />
-    <item drawable="dubsmash" />
-    <item drawable="edx" />
-    <item drawable="es_file" />
-    <item drawable="es_file_pro" />
-    <item drawable="flow_free" />
-    <item drawable="frontier" />
-    <item drawable="gallery" />
-    <item drawable="go_keyboard" />
-    <item drawable="go_sms_pro" />
-    <item drawable="go_speed" />
-    <item drawable="hp_eprint" />
-    <item drawable="hp_printer_remote" />
-    <item drawable="htc_car" />
-    <item drawable="htc_internet"/>
-    <item drawable="ifttt" />
-    <item drawable="ifunny" />
-    <item drawable="infinite_slice" />
-    <item drawable="instagram" />
-    <item drawable="lumosity" />
-    <item drawable="mashable" />
-    <item drawable="mega" />
-    <item drawable="missiles_game" />
-    <item drawable="nevolution" />
-    <item drawable="nfl_fantasy" />
-    <item drawable="nfl_mobile" />
-    <item drawable="nova_settings" />
-    <item drawable="one_weather" />
-    <item drawable="pics_art" />
-    <item drawable="qr" />
-    <item drawable="rop_game" />
-    <item drawable="s_note"/>
-    <item drawable="samsung_browser"/>
-    <item drawable="samsung_pay"/>
-    <item drawable="smart_switch"/>
-    <item drawable="snapseed" />
-    <item drawable="songsterr" />
-    <item drawable="storage_analyzer" />
-    <item drawable="street_view" />
-    <item drawable="stumble_upon" />
-    <item drawable="swing_game" />
-    <item drawable="the_rock_clock" />
-    <item drawable="transmission_game" />
-    <item drawable="twitch" />
-    <item drawable="unclouded" />
-    <item drawable="usa_today" />
-    <item drawable="vsco" />
-    <item drawable="vzw_messages"/>
-    <item drawable="wallrox"/>
-    <item drawable="weather_bug" />
-    <item drawable="wps_office"/>
-    <item drawable="xkcd" />
+    <item drawable="calculator" />
+    <item drawable="contacts" />
+    <item drawable="downloads" />
+    <item drawable="fb_pages" />
+    <item drawable="google_now_launcher" />
+    <item drawable="google_photos" />
+    <item drawable="google_translate" />
+    <item drawable="next_radio" />
+    <item drawable="outlook" />
+    <item drawable="peel" />
+    <item drawable="pocket" />
+    <item drawable="pocket_casts" />
+    <item drawable="strava" />
+    <item drawable="vzw_id" />
+    <item drawable="vzw_tones" />
+    <item drawable="zedge" />
+
 
     <category title="App Drawer" />
     <item drawable="app_drawer_1" />
@@ -101,12 +48,15 @@
     <item drawable="google_fit" />
     <item drawable="google_keyboard" />
     <item drawable="google_messenger" />
+    <item drawable="google_now_launcher" />
     <item drawable="google_opinion_rewards" />
     <item drawable="google_pdf_viewer" />
+    <item drawable="google_photos" />
     <item drawable="google_plus" />
     <item drawable="google_settings" />
     <item drawable="google_sheets" />
     <item drawable="google_slides" />
+    <item drawable="google_translate" />
     <item drawable="hangouts" />
     <item drawable="keep" />
     <item drawable="maps" />
@@ -191,6 +141,7 @@
     <item drawable="dolphin_browser" />
     <item drawable="dominos" />
     <item drawable="doodle_jump" />
+    <item drawable="downloads" />
     <item drawable="doze" />
     <item drawable="drive" />
     <item drawable="dropbox" />
@@ -211,6 +162,7 @@
     <item drawable="facebook" />
     <item drawable="fandango" />
     <item drawable="fb_messenger" />
+    <item drawable="fb_pages" />
     <item drawable="fidelity" />
     <item drawable="files" />
     <item drawable="firstbank" />
@@ -242,12 +194,15 @@
     <item drawable="google_fit" />
     <item drawable="google_keyboard" />
     <item drawable="google_messenger" />
+    <item drawable="google_now_launcher" />
     <item drawable="google_opinion_rewards" />
     <item drawable="google_pdf_viewer" />
+    <item drawable="google_photos" />
     <item drawable="google_plus" />
     <item drawable="google_settings" />
     <item drawable="google_sheets" />
     <item drawable="google_slides" />
+    <item drawable="google_translate" />
     <item drawable="greenify" />
     <item drawable="groupon" />
     <item drawable="guardian" />
@@ -316,6 +271,7 @@
     <item drawable="netflix" />
     <item drawable="nevolution" />
     <item drawable="news_republic" />
+    <item drawable="next_radio" />
     <item drawable="nfc_tools" />
     <item drawable="nfl_fantasy" />
     <item drawable="nfl_mobile" />
@@ -337,12 +293,14 @@
     <item drawable="online_nandroid_backup" />
     <item drawable="open_camera" />
     <item drawable="open_table" />
+    <item drawable="outlook" />
     <item drawable="overdrive" />
 
     <category title="P" />
     <item drawable="pancake" />
     <item drawable="pandora" />
     <item drawable="paypal" />
+    <item drawable="peel" />
     <item drawable="phone" />
     <item drawable="pics_art" />
     <item drawable="pinterest" />
@@ -353,6 +311,8 @@
     <item drawable="play_music" />
     <item drawable="play_news" />
     <item drawable="play_store" />
+    <item drawable="pocket" />
+    <item drawable="pocket_casts" />
     <item drawable="polaris_office" />
     <item drawable="power_clean" />
     <item drawable="powerpoint" />
@@ -396,6 +356,7 @@
     <item drawable="starbucks" />
     <item drawable="stickmount" />
     <item drawable="storage_analyzer" />
+    <item drawable="strava" />
     <item drawable="street_view" />
     <item drawable="stumble_upon" />
     <item drawable="supersu" />
@@ -447,9 +408,11 @@
     <item drawable="vsco" />
     <item drawable="vzw_accessories" />
     <item drawable="vzw_cloud" />
+    <item drawable="vzw_id" />
     <item drawable="vzw_messages"/>
     <item drawable="vzw_navigator" />
     <item drawable="vzw_protect" />
+    <item drawable="vzw_tones" />
 
     <category title="W" />
     <item drawable="wallrox"/>
@@ -481,6 +444,7 @@
 
     <category title="Z" />
     <item drawable="zarchiver" />
+    <item drawable="zedge" />
     <item drawable="zooper_widget_free" />
     <item drawable="zooper_widget_pro" />
 
@@ -558,6 +522,7 @@
     <item drawable="dolphin_browser" />
     <item drawable="dominos" />
     <item drawable="doodle_jump" />
+    <item drawable="downloads" />
     <item drawable="doze" />
     <item drawable="drive" />
     <item drawable="dropbox" />
@@ -578,6 +543,7 @@
     <item drawable="facebook" />
     <item drawable="fandango" />
     <item drawable="fb_messenger" />
+    <item drawable="fb_pages" />
     <item drawable="fidelity" />
     <item drawable="files" />
     <item drawable="firstbank" />
@@ -607,12 +573,15 @@
     <item drawable="google_fit" />
     <item drawable="google_keyboard" />
     <item drawable="google_messenger" />
+    <item drawable="google_now_launcher" />
     <item drawable="google_opinion_rewards" />
     <item drawable="google_pdf_viewer" />
+    <item drawable="google_photos" />
     <item drawable="google_plus" />
     <item drawable="google_settings" />
     <item drawable="google_sheets" />
     <item drawable="google_slides" />
+    <item drawable="google_translate" />
     <item drawable="greenify" />
     <item drawable="groupon" />
     <item drawable="guardian" />
@@ -667,6 +636,7 @@
     <item drawable="netflix" />
     <item drawable="nevolution" />
     <item drawable="news_republic" />
+    <item drawable="next_radio" />
     <item drawable="nfc_tools" />
     <item drawable="nfl_fantasy" />
     <item drawable="nfl_mobile" />
@@ -686,10 +656,12 @@
     <item drawable="online_nandroid_backup" />
     <item drawable="open_camera" />
     <item drawable="open_table" />
+    <item drawable="outlook" />
     <item drawable="overdrive" />
     <item drawable="pancake" />
     <item drawable="pandora" />
     <item drawable="paypal" />
+    <item drawable="peel" />
     <item drawable="phone" />
     <item drawable="pics_art" />
     <item drawable="pinterest" />
@@ -700,6 +672,8 @@
     <item drawable="play_music" />
     <item drawable="play_news" />
     <item drawable="play_store" />
+    <item drawable="pocket" />
+    <item drawable="pocket_casts" />
     <item drawable="polaris_office" />
     <item drawable="power_clean" />
     <item drawable="powerpoint" />
@@ -737,6 +711,7 @@
     <item drawable="starbucks" />
     <item drawable="stickmount" />
     <item drawable="storage_analyzer" />
+    <item drawable="strava" />
     <item drawable="street_view" />
     <item drawable="stumble_upon" />
     <item drawable="supersu" />
@@ -782,9 +757,11 @@
     <item drawable="vsco" />
     <item drawable="vzw_accessories" />
     <item drawable="vzw_cloud" />
+    <item drawable="vzw_id" />
     <item drawable="vzw_messages"/>
     <item drawable="vzw_navigator" />
     <item drawable="vzw_protect" />
+    <item drawable="vzw_tones" />
     <item drawable="wallrox"/>
     <item drawable="waze" />
     <item drawable="weather_bug" />
@@ -808,6 +785,7 @@
     <item drawable="youtube" />
     <item drawable="yt_music" />
     <item drawable="zarchiver" />
+    <item drawable="zedge" />
     <item drawable="zooper_widget_free" />
     <item drawable="zooper_widget_pro" />
 </resources>
