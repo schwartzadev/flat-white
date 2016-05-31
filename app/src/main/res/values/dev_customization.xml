@@ -7,7 +7,7 @@
     <bool name="allow_nav_drawer_mode_switch">false</bool>
 
     <!-- True enables the homepage -->
-    <bool name="homepage_enabled">false</bool>
+    <bool name="homepage_enabled">true</bool>
     <string name="homepage_description">
         Flat White provides a a clean, minimalist look for your Android device.
     </string>

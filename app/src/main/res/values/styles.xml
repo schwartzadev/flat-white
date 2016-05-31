@@ -62,6 +62,24 @@
         <item name="colorButtonNormal">@color/accent_2_dark</item>
     </style>
 
+    <style name="main_menu">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">45dip</item>
+        <item name="android:textColor">@color/menu_text_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginLeft">30dip</item>
+        <item name="android:layout_marginRight">30dip</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="main_menu_btnTop" parent="main_menu">
+        <item name="android:layout_marginTop">10dip</item>
+    </style>
+
+    <style name="main_menu_btnNormal" parent="main_menu">
+        <item name="android:layout_marginTop">10dip</item>
+    </style>
+    <!--end test-->
 
     <!-- TODO are these needed? -->
     <declare-styleable name="WindowInsetsLayout_Layout">

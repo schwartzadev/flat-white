@@ -12,6 +12,13 @@
         android:clipToPadding="false"
         android:paddingBottom="@dimen/list_with_fab_bottom_margin"
         app:layout_windowInsets="bottom">-->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        android:paddingBottom="@dimen/list_with_fab_bottom_margin"
+        app:layout_windowInsets="bottom">
+
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -46,28 +53,36 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/homepage_button_top"
-                android:id="@+id/button_top"
+                android:text="@string/btn_top"
+                android:background="@drawable/blue_menu_btn"
+                style="@style/main_menu_btnTop"
+                android:id="@+id/btn_top"
                 android:layout_gravity="center_horizontal"
                 android:autoLink="all" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/homepage_button_mid"
-                android:id="@+id/button_mid"
+                android:text="@string/btn_mid"
+                android:background="@drawable/blue_menu_btn"
+                style="@style/main_menu_btnTop"
+                android:id="@+id/btn_mid"
                 android:layout_gravity="center_horizontal"
                 android:autoLink="all" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/homepage_button_bottom"
-                android:id="@+id/button_bottom"
+                android:text="@string/btn_bottom"
+                android:background="@drawable/blue_menu_btn"
+                style="@style/main_menu_btnTop"
+                android:id="@+id/btn_bottom"
                 android:layout_gravity="center_horizontal"
                 android:autoLink="all" />
 
         </LinearLayout>
+
+</ScrollView>
 
     <!--</ScrollView>-->
 

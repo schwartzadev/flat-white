@@ -12,7 +12,20 @@ import android.view.ViewGroup;
 import com.afollestad.polar.BuildConfig;
 import com.afollestad.polar.R;
 import com.afollestad.polar.fragments.base.BasePageFragment;
+import android.app.Activity;
+import android.content.Intent;
+import android.net.Uri;
+import android.os.Bundle;
+import android.support.annotation.Nullable;
+import android.support.design.widget.FloatingActionButton;
+import android.support.design.widget.Snackbar;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Toast;
 
+import com.afollestad.polar.ui.MainActivity;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
@@ -78,18 +91,34 @@ public class HomeFragment extends BasePageFragment {
         ButterKnife.unbind(this);
     }
 
-    /*@OnClick(R.id.button_top)
-    public void onTapReview() {
+    @OnClick(R.id.btn_top)
+    public void onBtnTopPush() {
         startActivity(new Intent(Intent.ACTION_VIEW)
                 .setData(Uri.parse(String.format("https://www.paypal.me/schwartzadev/5", BuildConfig.APPLICATION_ID))));
-    }*/
+    }
 
-    /*@OnClick(R.id.fab)
-    public void onTapReview() {
+    @OnClick(R.id.btn_mid)
+    public void onBtnMidPush() {
+        startActivity(new Intent(Intent.ACTION_VIEW)
+                .setData(Uri.parse(String.format("http://goo.gl/forms/oS2ejY5LwdkwBxsV2", BuildConfig.APPLICATION_ID))));
+    }
+
+    @OnClick(R.id.btn_bottom)
+    public void onBtnBottomPush() {
         startActivity(new Intent(Intent.ACTION_VIEW)
                 .setData(Uri.parse(String.format("https://play.google.com/store/apps/details?id=%s", BuildConfig.APPLICATION_ID))));
-    }*/
+    }
 
+/*
+    @OnClick(R.id.btnGetSomeHelp)
+    public void onBtnHelpPush(){
+        Intent emailIntent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts(
+                "mailto","ercsoftware11@gmail.com", null));
+        emailIntent.putExtra(Intent.EXTRA_SUBJECT, "Material Wallpapers - Help)");
+        emailIntent.putExtra(Intent.EXTRA_TEXT, "Need some help? Let us know with as much detail as possible, what the problem is, and we will get back to you ASAP :-)");
+        startActivity(Intent.createChooser(emailIntent, "Send via"));
+    }
+*/
     @Override
     public int getTitle() {
         return R.string.home;

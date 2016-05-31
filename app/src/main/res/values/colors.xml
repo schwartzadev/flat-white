@@ -10,6 +10,19 @@
     <color name="navigationview_normaltext_light">#191919</color>
     <color name="navigationview_normaltext_dark">#E6E6E6</color>
     <color name="navigationview_selectedbg_light">#e2e2e2</color>
-    <color name="navigationview_selectedbg_dark">#474747</color>
+    <color name="navigationview_selectedbg_dark">#474747</color>[-
+
+    <color name="blue_base">@color/accent_material_light</color>
+    <color name="blue_stroke">@color/accent_material_light</color>
+    <color name="blue_gradientS">@color/accent_material_light</color>
+    <color name="blue_gradientE">@color/accent_material_light</color>
+
+    <color name="def_blue_base">#449def</color>
+    <color name="def_blue_stroke">#2F6699</color>
+    <color name="def_blue_gradientS">#449def</color>
+    <color name="def_blue_gradientE">#2F6699</color>
+
+    <color name="menu_text_color">#FFFFFF</color>
+    <color name="menu_shadow_color">#000000</color>
 
 </resources>
