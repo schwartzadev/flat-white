@@ -9,6 +9,7 @@
     </string-array>
 -->
     <string-array name="icon_pack" translatable="false">        <item>ac_display</item>
+
         <item>accuweather</item>
         <item>adaway</item>
         <item>adobe_air</item>
@@ -30,9 +31,11 @@
         <item>amazon</item>
         <item>american_airlines</item>
         <item>ampere</item>
+        <item>amplify</item>
         <item>android_auto</item>
         <item>android_device_manager</item>
         <item>android_pay</item>
+        <item>android_wear</item>
         <item>anova</item>
         <item>any_do</item>
         <item>app_drawer_1</item>
@@ -42,19 +45,26 @@
         <item>app_drawer_5</item>
         <item>app_drawer_6</item>
         <item>application_reader</item>
+        <item>audible</item>
         <item>authy</item>
         <item>avast_cleanup</item>
         <item>aviary</item>
         <item>backdrops</item>
         <item>bbc_news</item>
+        <item>bbc_weather</item>
         <item>bing_rewards</item>
         <item>bing_search</item>
+        <item>blackplayer_ex</item>
+        <item>blackplayer</item>
         <item>bloomberg</item>
+        <item>boomerang</item>
+        <item>boxer_email</item>
         <item>burger</item>
         <item>busybox</item>
         <item>buzzfeed_video</item>
         <item>buzzfeed</item>
         <item>calculator</item>
+        <item>cam_scanner</item>
         <item>camera</item>
         <item>candy_crush</item>
         <item>catch_game</item>
@@ -62,9 +72,13 @@
         <item>cbs_sports</item>
         <item>cbs</item>
         <item>ccleaner</item>
+        <item>chase_bank</item>
         <item>checkpoints</item>
+        <item>chrome_beta</item>
+        <item>chrome_dev</item>
         <item>chrome</item>
         <item>chromer</item>
+        <item>citi_bank</item>
         <item>clean_master_lite</item>
         <item>clean_master</item>
         <item>cloud_vpn</item>
@@ -73,11 +87,15 @@
         <item>color_switch</item>
         <item>comcast_connect</item>
         <item>contacts</item>
+        <item>cortana</item>
         <item>coursera</item>
         <item>daily_art</item>
+        <item>daily_mail</item>
         <item>denver_post</item>
         <item>desmos</item>
         <item>device_control</item>
+        <item>digg</item>
+        <item>disk_usage</item>
         <item>dolphin_browser</item>
         <item>dominos</item>
         <item>doodle_jump</item>
@@ -90,7 +108,9 @@
         <item>duet</item>
         <item>duolingo</item>
         <item>ebay</item>
+        <item>edmodo</item>
         <item>edx</item>
+        <item>email</item>
         <item>emergency_alerts</item>
         <item>emoji_switcher</item>
         <item>es_file_pro</item>
@@ -103,10 +123,13 @@
         <item>fandango</item>
         <item>fb_messenger</item>
         <item>fb_pages</item>
+        <item>feedly</item>
         <item>fidelity</item>
         <item>files</item>
+        <item>firefox</item>
         <item>firstbank</item>
         <item>fitbit</item>
+        <item>five_hundred_px</item>
         <item>flash_keyboard</item>
         <item>flat_white</item>
         <item>flickr</item>
@@ -114,8 +137,11 @@
         <item>flow_free</item>
         <item>flud</item>
         <item>flux</item>
+        <item>fml</item>
+        <item>foursquare</item>
         <item>frontier</item>
         <item>gallery</item>
+        <item>geico</item>
         <item>geocaching</item>
         <item>gmail</item>
         <item>go_keyboard</item>
@@ -131,20 +157,25 @@
         <item>google_fit</item>
         <item>google_keyboard</item>
         <item>google_messenger</item>
+        <item>google_news_and_weather</item>
         <item>google_now_launcher</item>
         <item>google_opinion_rewards</item>
         <item>google_pdf_viewer</item>
+        <item>google_photos</item>
         <item>google_photos</item>
         <item>google_plus</item>
         <item>google_settings</item>
         <item>google_sheets</item>
         <item>google_slides</item>
         <item>google_translate</item>
+        <item>google_translate</item>
+        <item>google_wallet</item>
         <item>google</item>
         <item>greenify</item>
         <item>groupon</item>
         <item>guardian</item>
         <item>hangouts</item>
+        <item>hbo_go</item>
         <item>help</item>
         <item>hp_eprint</item>
         <item>hp_printer_remote</item>
@@ -170,6 +201,22 @@
         <item>lastpass_authenticator</item>
         <item>lastpass</item>
         <item>letgo</item>
+        <item>lg_appbox</item>
+        <item>lg_camera</item>
+        <item>lg_clock</item>
+        <item>lg_email</item>
+        <item>lg_files</item>
+        <item>lg_hotspot</item>
+        <item>lg_life_tracker</item>
+        <item>lg_memo</item>
+        <item>lg_music</item>
+        <item>lg_qvoice_plus</item>
+        <item>lg_radio</item>
+        <item>lg_remote</item>
+        <item>lg_update_center</item>
+        <item>lg_voice_recorder</item>
+        <item>lg_weather</item>
+        <item>lg_world</item>
         <item>linkedin</item>
         <item>loop</item>
         <item>lp_recovery</item>
@@ -188,14 +235,18 @@
         <item>memo</item>
         <item>missiles_game</item>
         <item>mlb_at_bat</item>
+        <item>monument_valley</item>
         <item>music</item>
         <item>musical_ly</item>
+        <item>musixmatch</item>
+        <item>my_fitness_pal</item>
         <item>my_verizon_mobile</item>
         <item>nba</item>
         <item>nest</item>
         <item>netflix</item>
         <item>nevolution</item>
         <item>news_republic</item>
+        <item>next_radio</item>
         <item>next_radio</item>
         <item>nfc_tools</item>
         <item>nfl_fantasy</item>
@@ -208,23 +259,30 @@
         <item>nova_settings</item>
         <item>npr_news</item>
         <item>nyt</item>
+        <item>office_lens</item>
         <item>office_mobile</item>
         <item>one_more_line</item>
+        <item>one_password</item>
         <item>one_weather</item>
         <item>onedrive</item>
         <item>onenote</item>
         <item>online_nandroid_backup</item>
         <item>open_camera</item>
         <item>open_table</item>
+        <item>opera_mini</item>
+        <item>opera</item>
         <item>outlook</item>
         <item>overdrive</item>
         <item>pancake</item>
         <item>pandora</item>
         <item>paypal</item>
+        <item>pebble</item>
         <item>peel</item>
         <item>phone</item>
+        <item>photo_math</item>
         <item>pics_art</item>
         <item>pinterest</item>
+        <item>pixlr</item>
         <item>pizza_hut</item>
         <item>play_books</item>
         <item>play_games</item>
@@ -232,44 +290,58 @@
         <item>play_music</item>
         <item>play_news</item>
         <item>play_store</item>
+        <item>playstation</item>
+        <item>plex</item>
         <item>pocket_casts</item>
         <item>pocket</item>
         <item>polaris_office</item>
+        <item>portal</item>
         <item>power_clean</item>
         <item>powerpoint</item>
         <item>prey</item>
+        <item>project_fi</item>
         <item>proton_mail</item>
         <item>pushbullet</item>
         <item>qr</item>
         <item>qr</item>
         <item>quizlet</item>
         <item>quizup</item>
+        <item>reddit_is_fun</item>
         <item>reddit</item>
+        <item>relay_for_reddit</item>
         <item>retail_me_not</item>
         <item>roku_remote</item>
         <item>root_booster</item>
         <item>root_browser</item>
         <item>rop_game</item>
+        <item>runkeeper</item>
         <item>s_health</item>
         <item>s_note</item>
         <item>samsung_browser</item>
         <item>samsung_pay</item>
+        <item>sd_maid_pro</item>
+        <item>sd_maid</item>
         <item>settings</item>
         <item>setup_wizard</item>
         <item>shazam</item>
+        <item>signal</item>
+        <item>sirius_xm</item>
         <item>skype</item>
         <item>slack</item>
         <item>slacker</item>
         <item>smart_switch</item>
         <item>snapchat</item>
         <item>snapseed</item>
+        <item>solid_explorer</item>
         <item>songsterr</item>
         <item>soundcloud</item>
+        <item>soundhound</item>
         <item>southwest</item>
         <item>speedtest</item>
         <item>spotify</item>
         <item>stack</item>
         <item>starbucks</item>
+        <item>steam</item>
         <item>stickmount</item>
         <item>storage_analyzer</item>
         <item>strava</item>
@@ -281,8 +353,9 @@
         <item>system_app_remover</item>
         <item>tag_info</item>
         <item>tag_writer</item>
+        <item>tapatalk</item>
+        <item>tasker</item>
         <item>ted</item>
-        <item>template_new</item>
         <item>ten_ten</item>
         <item>tesla_unread</item>
         <item>textra</item>
@@ -291,6 +364,8 @@
         <item>the_weather_channel</item>
         <item>themer</item>
         <item>time</item>
+        <item>tinder</item>
+        <item>tiny_scanner</item>
         <item>titanium_backup</item>
         <item>tmobile</item>
         <item>todoist</item>
@@ -328,6 +403,7 @@
         <item>weather_bug</item>
         <item>weather_underground</item>
         <item>weight_gurus</item>
+        <item>wells_fargo</item>
         <item>whats_app</item>
         <item>wikipedia</item>
         <item>wish</item>
@@ -335,6 +411,7 @@
         <item>words_with_friends</item>
         <item>wps_office</item>
         <item>wsj</item>
+        <item>wunderlist</item>
         <item>xfinity_account</item>
         <item>xfinity_go</item>
         <item>xfinity_remote</item>
@@ -346,6 +423,7 @@
         <item>youtube</item>
         <item>yt_music</item>
         <item>zarchiver</item>
+        <item>zedge</item>
         <item>zedge</item>
         <item>zooper_widget_free</item>
         <item>zooper_widget_pro</item>

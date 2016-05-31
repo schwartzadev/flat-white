@@ -17,6 +17,11 @@ import butterknife.Bind;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
+import android.content.Intent;
+import android.view.Menu;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
 /**
  * @author Aidan Follestad (afollestad)
  */
@@ -24,7 +29,37 @@ public class HomeFragment extends BasePageFragment {
 
 //    @Bind(R.id.fab)
 //    FloatingActionButton mFab;
+/*
+    Button button;
 
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.fragment_homepage);
+
+        addListenerOnButton();
+
+    }
+
+    public void addListenerOnButton() {
+
+        button = (Button) findViewById(R.id.button);
+
+        button.setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View arg0) {
+
+                Intent browserIntent =
+                        new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.mkyong.com"));
+                startActivity(browserIntent);
+
+            }
+
+        });
+
+    }
+*/
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -43,11 +78,17 @@ public class HomeFragment extends BasePageFragment {
         ButterKnife.unbind(this);
     }
 
-    @OnClick(R.id.fab)
+    /*@OnClick(R.id.button_top)
+    public void onTapReview() {
+        startActivity(new Intent(Intent.ACTION_VIEW)
+                .setData(Uri.parse(String.format("https://www.paypal.me/schwartzadev/5", BuildConfig.APPLICATION_ID))));
+    }*/
+
+    /*@OnClick(R.id.fab)
     public void onTapReview() {
         startActivity(new Intent(Intent.ACTION_VIEW)
                 .setData(Uri.parse(String.format("https://play.google.com/store/apps/details?id=%s", BuildConfig.APPLICATION_ID))));
-    }
+    }*/
 
     @Override
     public int getTitle() {

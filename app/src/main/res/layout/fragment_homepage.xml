@@ -6,12 +6,12 @@
     android:layout_height="match_parent"
     android:clipToPadding="false">
 
-    <ScrollView
+<!--    <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:clipToPadding="false"
         android:paddingBottom="@dimen/list_with_fab_bottom_margin"
-        app:layout_windowInsets="bottom">
+        app:layout_windowInsets="bottom">-->
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -23,8 +23,8 @@
 
             <ImageView
                 android:id="@+id/landingIcon"
-                android:layout_width="@dimen/landing_page_icon_size"
-                android:layout_height="@dimen/landing_page_icon_size"
+                android:layout_width="215dp"
+                android:layout_height="215dp"
                 android:layout_marginBottom="@dimen/content_inset"
                 android:layout_marginTop="@dimen/content_inset_less"
                 android:scaleType="fitXY"
@@ -43,11 +43,35 @@
                 android:textColor="?android:textColorPrimary"
                 android:textSize="@dimen/content_text_size" />
 
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/homepage_button_top"
+                android:id="@+id/button_top"
+                android:layout_gravity="center_horizontal"
+                android:autoLink="all" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/homepage_button_mid"
+                android:id="@+id/button_mid"
+                android:layout_gravity="center_horizontal"
+                android:autoLink="all" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/homepage_button_bottom"
+                android:id="@+id/button_bottom"
+                android:layout_gravity="center_horizontal"
+                android:autoLink="all" />
+
         </LinearLayout>
 
-    </ScrollView>
+    <!--</ScrollView>-->
 
-    <android.support.design.widget.FloatingActionButton
+   <!--<android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -55,6 +79,6 @@
         android:layout_marginBottom="@dimen/content_inset"
         app:layout_windowInsets="bottom"
         app:layout_windowInsetsUseMargin="true"
-        app:srcCompat="@drawable/ic_action_star" />
+        app:srcCompat="@drawable/ic_action_star" />-->
 
 </com.pluscubed.insetsdispatcher.view.InsetsDispatcherFrameLayout>

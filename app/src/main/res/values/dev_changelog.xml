@@ -4,6 +4,10 @@
     <bool name="changelog_enabled">true</bool>
 
     <string-array name="changelog" translatable="false">
+        <item><![CDATA[ <b>0.9 (v9)</b> ]]></item>
+        <item><![CDATA[ 82 New icons ]]></item>
+        <item><![CDATA[ Added LG Icons ]]></item>
+        <item><![CDATA[ Reddit: Thank You! ]]></item>
         <item><![CDATA[ <b>BETA 0.8 (v8)</b> ]]></item>
         <item><![CDATA[ 16 New icons ]]></item>
         <item><![CDATA[ New icons: calculator, contacts, Weatherbug ]]></item>
