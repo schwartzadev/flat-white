@@ -16,7 +16,7 @@
 
     <!-- URL to JSON file containing a map of wallpapers, leave empty to disable wallpapers. -->
     <string name="wallpapers_json_url" formatted="false">
-        https://raw.githubusercontent.com/werdna3232/flat-white-json/master/flat_white.json
+        https://raw.githubusercontent.com/werdna3232/wallpaperimages/master/wallpapers.json
     </string>
 
     <!-- Email used to send icon requests, leave empty to disable this feature. -->
@@ -33,13 +33,13 @@
         If you want days:    [seconds] = [days] * 86400
         If you want weeks:   [seconds] = [weeks] * 604800
     -->
-    <integer name="icon_request_limit_interval">60</integer>
+    <integer name="icon_request_limit_interval">15</integer>
 
     <!-- Public Base64 from the developer console for license checking, optional -->
     <string name="licensing_public_key"></string>
 
     <!-- When true, the app will open the last selected page during restarts -->
-    <bool name="persist_selected_page">true</bool>
+    <bool name="persist_selected_page">false</bool>
 
     <!-- Email used to send feedback, leave empty to disable this feature. -->
     <string name="feedback_email">schwartzadev@gmail.com</string>

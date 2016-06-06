@@ -4,6 +4,11 @@
     <bool name="changelog_enabled">true</bool>
 
     <string-array name="changelog" translatable="false">
+        <item><![CDATA[ <b>1.0 (v10)</b> ]]></item>
+        <item><![CDATA[ 80 New icons ]]></item>
+        <item><![CDATA[ Added Asus, HTC, CyanogenMod icons ]]></item>
+        <item><![CDATA[ New Google Play icons ]]></item>
+        <item><![CDATA[ Redesigned homepage ]]></item>
         <item><![CDATA[ <b>0.9 (v9)</b> ]]></item>
         <item><![CDATA[ 82 New icons ]]></item>
         <item><![CDATA[ Added LG Icons ]]></item>
