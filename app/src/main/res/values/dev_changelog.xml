@@ -4,6 +4,9 @@
     <bool name="changelog_enabled">true</bool>
 
     <string-array name="changelog" translatable="false">
+        <item><![CDATA[ <b>1.1 (v11)</b> ]]></item>
+        <item><![CDATA[ 59 New Icons ]]></item>
+        <item><![CDATA[ New wallpapers (ERC Software) ]]></item>
         <item><![CDATA[ <b>1.0 (v10)</b> ]]></item>
         <item><![CDATA[ 80 New icons ]]></item>
         <item><![CDATA[ Added Asus, HTC, CyanogenMod icons ]]></item>

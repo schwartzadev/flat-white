@@ -3,87 +3,65 @@
     <version>1</version>
 
     <category title="New Icons" />
-    <item drawable="amazon_alexa" />
-    <item drawable="amazon_photos" />
-    <item drawable="apphunt" />
-    <item drawable="asus_asus_app" />
-    <item drawable="asus_audio_wizard" />
-    <item drawable="asus_backup_restore" />
-    <item drawable="asus_browser" />
-    <item drawable="asus_calculator" />
-    <item drawable="asus_calendar" />
-    <item drawable="asus_camera" />
-    <item drawable="asus_clock" />
-    <item drawable="asus_collage" />
-    <item drawable="asus_contacts" />
-    <item drawable="asus_files" />
-    <item drawable="asus_flashlight" />
-    <item drawable="asus_gallery" />
-    <item drawable="asus_laser_ruler" />
-    <item drawable="asus_launcher" />
-    <item drawable="asus_memo" />
-    <item drawable="asus_messages" />
-    <item drawable="asus_microfilm" />
-    <item drawable="asus_mirror" />
-    <item drawable="asus_mobile_manager" />
-    <item drawable="asus_music" />
-    <item drawable="asus_note" />
-    <item drawable="asus_power_saver" />
-    <item drawable="asus_radio" />
-    <item drawable="asus_remote_link" />
-    <item drawable="asus_sharerim" />
-    <item drawable="asus_sound_recorder" />
-    <item drawable="asus_splendid" />
-    <item drawable="asus_task" />
-    <item drawable="asus_theme" />
-    <item drawable="asus_update" />
-    <item drawable="asus_user_feedback" />
-    <item drawable="asus_weather" />
-    <item drawable="bacon_reader" />
-    <item drawable="charity_miles" />
-    <item drawable="checkout_51" />
-    <item drawable="chrooma" />
-    <item drawable="cm_audio_fx" />
-    <item drawable="cm_browser" />
-    <item drawable="cm_camera" />
-    <item drawable="cm_email" />
-    <item drawable="cm_gallery" />
-    <item drawable="cm_messenger" />
-    <item drawable="cm_music" />
-    <item drawable="cm_phone" />
-    <item drawable="cm_screencast" />
-    <item drawable="cm_sound_recorder" />
-    <item drawable="cm_theme" />
-    <item drawable="dogg_catcher" />
-    <item drawable="f_droid" />
-    <item drawable="fox_news" />
-    <item drawable="here_maps" />
-    <item drawable="hhonors" />
-    <item drawable="htc_calendar" />
-    <item drawable="htc_camera" />
-    <item drawable="htc_contacts" />
-    <item drawable="htc_email" />
-    <item drawable="htc_flashlight" />
-    <item drawable="htc_gallery" />
-    <item drawable="htc_mms" />
-    <item drawable="ingress" />
-    <item drawable="keepass" />
-    <item drawable="loop_blueprints" />
-    <item drawable="lyft" />
-    <item drawable="map_my_ride" />
-    <item drawable="mi_fit" />
-    <item drawable="offer_up" />
-    <item drawable="play_books" />
-    <item drawable="play_dev" />
-    <item drawable="play_games" />
-    <item drawable="play_movies" />
-    <item drawable="play_music" />
-    <item drawable="play_news" />
-    <item drawable="songkick" />
-    <item drawable="weather_timeline" />
-    <item drawable="wifi_analyzer" />
-    <item drawable="zillow" />
-
+    <item drawable="acorns" />
+    <item drawable="action_launcher" />
+    <item drawable="adm" />
+    <item drawable="adobe_fill_and_sign" />
+    <item drawable="advanced_power_menu" />
+    <item drawable="after_ship" />
+    <item drawable="amdroid_alarm" />
+    <item drawable="apple_music" />
+    <item drawable="arrow_launcher" />
+    <item drawable="asus_zenflash" />
+    <item drawable="avast_antivirus" />
+    <item drawable="bandsintown" />
+    <item drawable="bitfender_security" />
+    <item drawable="bittorrent" />
+    <item drawable="cheetah_locker" />
+    <item drawable="cheetah_security" />
+    <item drawable="chic_fil_a" />
+    <item drawable="dash_drive" />
+    <item drawable="flesky_keyboard" />
+    <item drawable="google_spaces" />
+    <item drawable="gtasks" />
+    <item drawable="hangouts_dialer" />
+    <item drawable="hike_messenger" />
+    <item drawable="ia_writer" />
+    <item drawable="ing_bank" />
+    <item drawable="jodel" />
+    <item drawable="metal_for_fb" />
+    <item drawable="microsoft_account" />
+    <item drawable="mint" />
+    <item drawable="monospace" />
+    <item drawable="month_widget" />
+    <item drawable="ninety_292" />
+    <item drawable="ninety_4_percent" />
+    <item drawable="ocea_zooper" />
+    <item drawable="one_calculator" />
+    <item drawable="poweramp" />
+    <item drawable="psafe_booster" />
+    <item drawable="quickpic" />
+    <item drawable="reisplanner" />
+    <item drawable="reuters" />
+    <item drawable="samsung_milk_music" />
+    <item drawable="seven_minute_workout" />
+    <item drawable="slide_reddit" />
+    <item drawable="sonos" />
+    <item drawable="square_cash" />
+    <item drawable="statefarm_pocket" />
+    <item drawable="sync_me" />
+    <item drawable="telegram" />
+    <item drawable="ticketmaster" />
+    <item drawable="true_caller" />
+    <item drawable="true_messenger" />
+    <item drawable="ua_record" />
+    <item drawable="utorrent" />
+    <item drawable="we_chat" />
+    <item drawable="xda_labs" />
+    <item drawable="yahoo_launcher" />
+    <item drawable="yahoo_mail" />
+    <item drawable="youtube_studio" />
+    <item drawable="zomato" />
 
 
     <category title="App Drawer" />
@@ -175,6 +153,12 @@
     <item drawable="lg_world" />
 
 
+    <category title="Samsung" />
+    <item drawable="samsung_browser"/>
+    <item drawable="samsung_milk_music" />
+    <item drawable="samsung_pay"/>
+
+
 
     <!-- FOLDERS-->
 
@@ -213,16 +197,22 @@
     <item drawable="play_music" />
     <item drawable="play_news" />
     <item drawable="play_store" />
-
+    <item drawable="youtube" />
+    <item drawable="yt_music" />
+    <item drawable="youtube_studio" />
 
 
     <category title="A" />
     <item drawable="ac_display"/>
     <item drawable="accuweather" />
+    <item drawable="acorns" />
+    <item drawable="action_launcher" />
     <item drawable="adaway" />
+    <item drawable="adm" />
     <item drawable="adobe_air" />
     <item drawable="adobe_creative_cloud" />
     <item drawable="adobe_esign" />
+    <item drawable="adobe_fill_and_sign" />
     <item drawable="adobe_illustrator" />
     <item drawable="adobe_in" />
     <item drawable="adobe_lr" />
@@ -230,6 +220,8 @@
     <item drawable="adobe_ps" />
     <item drawable="adobe_ps_mix" />
     <item drawable="adobe_reader" />
+    <item drawable="advanced_power_menu" />
+    <item drawable="after_ship" />
     <item drawable="afwall_plus" />
     <item drawable="airbnb" />
     <item drawable="airdroid" />
@@ -239,6 +231,7 @@
     <item drawable="amazon_alexa" />
     <item drawable="amazon_music" />
     <item drawable="amazon_photos" />
+    <item drawable="amdroid_alarm" />
     <item drawable="american_airlines" />
     <item drawable="ampere" />
     <item drawable="amplify" />
@@ -249,7 +242,9 @@
     <item drawable="anova" />
     <item drawable="any_do" />
     <item drawable="apphunt" />
+    <item drawable="apple_music" />
     <item drawable="application_reader" />
+    <item drawable="arrow_launcher" />
     <item drawable="asus_asus_app" />
     <item drawable="asus_audio_wizard" />
     <item drawable="asus_backup_restore" />
@@ -283,19 +278,23 @@
     <item drawable="asus_update" />
     <item drawable="asus_user_feedback" />
     <item drawable="asus_weather" />
+    <item drawable="asus_zenflash" />
     <item drawable="audible" />
     <item drawable="authy" />
+    <item drawable="avast_antivirus" />
     <item drawable="avast_cleanup" />
     <item drawable="aviary"/>
-
 
     <category title="B" />
     <item drawable="backdrops"/>
     <item drawable="bacon_reader" />
+    <item drawable="bandsintown" />
     <item drawable="bbc_news" />
     <item drawable="bbc_weather" />
     <item drawable="bing_rewards" />
     <item drawable="bing_search" />
+    <item drawable="bitfender_security" />
+    <item drawable="bittorrent" />
     <item drawable="blackplayer" />
     <item drawable="blackplayer_ex" />
     <item drawable="bloomberg" />
@@ -305,7 +304,6 @@
     <item drawable="busybox" />
     <item drawable="buzzfeed" />
     <item drawable="buzzfeed_video" />
-
 
     <category title="C" />
     <item drawable="calculator" />
@@ -321,6 +319,9 @@
     <item drawable="chase_bank" />
     <item drawable="checkout_51" />
     <item drawable="checkpoints" />
+    <item drawable="cheetah_locker" />
+    <item drawable="cheetah_security" />
+    <item drawable="chic_fil_a" />
     <item drawable="chrome" />
     <item drawable="chrome_beta" />
     <item drawable="chrome_dev" />
@@ -353,6 +354,7 @@
     <category title="D" />
     <item drawable="daily_art" />
     <item drawable="daily_mail" />
+    <item drawable="dash_drive" />
     <item drawable="denver_post" />
     <item drawable="desmos" />
     <item drawable="device_control" />
@@ -395,6 +397,7 @@
     <item drawable="fitbit" />
     <item drawable="flash_keyboard" />
     <item drawable="flat_white" />
+    <item drawable="flesky_keyboard" />
     <item drawable="flickr" />
     <item drawable="flipboard" />
     <item drawable="flow_free" />
@@ -429,18 +432,22 @@
     <item drawable="google_settings" />
     <item drawable="google_sheets" />
     <item drawable="google_slides" />
+    <item drawable="google_spaces" />
     <item drawable="google_translate" />
     <item drawable="google_wallet" />
     <item drawable="greenify" />
     <item drawable="groupon" />
+    <item drawable="gtasks" />
     <item drawable="guardian" />
 
     <category title="H" />
     <item drawable="hangouts" />
+    <item drawable="hangouts_dialer" />
     <item drawable="hbo_go" />
     <item drawable="help" />
     <item drawable="here_maps" />
     <item drawable="hhonors" />
+    <item drawable="hike_messenger" />
     <item drawable="hp_eprint" />
     <item drawable="hp_printer_remote" />
     <item drawable="htc_calendar" />
@@ -456,16 +463,19 @@
     <item drawable="hulu" />
 
     <category title="I" />
+    <item drawable="ia_writer" />
     <item drawable="ifttt" />
     <item drawable="ifunny" />
     <item drawable="imdb" />
     <item drawable="imgur" />
     <item drawable="inbox" />
     <item drawable="infinite_slice" />
+    <item drawable="ing_bank" />
     <item drawable="ingress" />
     <item drawable="instagram" />
 
-   <!-- <category title="J" /> -->
+    <category title="J" />
+    <item drawable="jodel" />
 
     <category title="K" />
     <item drawable="kayak" />
@@ -518,9 +528,14 @@
     <item drawable="mcdonalds" />
     <item drawable="mega" />
     <item drawable="memo" />
+    <item drawable="metal_for_fb" />
     <item drawable="mi_fit" />
+    <item drawable="microsoft_account" />
+    <item drawable="mint" />
     <item drawable="missiles_game" />
     <item drawable="mlb_at_bat" />
+    <item drawable="monospace" />
+    <item drawable="month_widget" />
     <item drawable="monument_valley" />
     <item drawable="music" />
     <item drawable="musical_ly" />
@@ -529,6 +544,7 @@
     <item drawable="my_verizon_mobile" />
 
     <category title="N" />
+
     <item drawable="nba" />
     <item drawable="nest" />
     <item drawable="netflix" />
@@ -542,14 +558,18 @@
     <item drawable="night_mode" />
     <item drawable="nike_running" />
     <item drawable="nine_gag" />
+    <item drawable="ninety_292" />
+    <item drawable="ninety_4_percent" />
     <item drawable="nova_launcher" />
     <item drawable="nova_settings" />
     <item drawable="npr_news" />
 
     <category title="O" />
+    <item drawable="ocea_zooper" />
     <item drawable="offer_up" />
     <item drawable="office_lens" />
     <item drawable="office_mobile" />
+    <item drawable="one_calculator" />
     <item drawable="one_more_line" />
     <item drawable="one_password" />
     <item drawable="one_weather" />
@@ -589,22 +609,27 @@
     <item drawable="polaris_office" />
     <item drawable="portal" />
     <item drawable="power_clean" />
+    <item drawable="poweramp" />
     <item drawable="powerpoint" />
     <item drawable="prey" />
     <item drawable="project_fi" />
     <item drawable="proton_mail" />
+    <item drawable="psafe_booster" />
     <item drawable="pushbullet" />
 
     <category title="Q" />
     <item drawable="qr" />
+    <item drawable="quickpic" />
     <item drawable="quizlet" />
     <item drawable="quizup" />
 
     <category title="R" />
     <item drawable="reddit" />
     <item drawable="reddit_is_fun" />
+    <item drawable="reisplanner" />
     <item drawable="relay_for_reddit" />
     <item drawable="retail_me_not" />
+    <item drawable="reuters" />
     <item drawable="roku_remote" />
     <item drawable="root_booster" />
     <item drawable="root_browser" />
@@ -615,30 +640,36 @@
     <item drawable="s_health" />
     <item drawable="s_note"/>
     <item drawable="samsung_browser"/>
+    <item drawable="samsung_milk_music" />
     <item drawable="samsung_pay"/>
     <item drawable="sd_maid" />
     <item drawable="sd_maid_pro" />
     <item drawable="settings" />
     <item drawable="setup_wizard" />
+    <item drawable="seven_minute_workout" />
     <item drawable="shazam" />
     <item drawable="signal" />
     <item drawable="sirius_xm" />
     <item drawable="skype" />
     <item drawable="slack" />
     <item drawable="slacker" />
+    <item drawable="slide_reddit" />
     <item drawable="smart_switch"/>
     <item drawable="snapchat" />
     <item drawable="snapseed" />
     <item drawable="solid_explorer" />
     <item drawable="songkick" />
     <item drawable="songsterr" />
+    <item drawable="sonos" />
     <item drawable="soundcloud" />
     <item drawable="soundhound" />
     <item drawable="southwest" />
     <item drawable="speedtest" />
     <item drawable="spotify" />
+    <item drawable="square_cash" />
     <item drawable="stack" />
     <item drawable="starbucks" />
+    <item drawable="statefarm_pocket" />
     <item drawable="steam" />
     <item drawable="stickmount" />
     <item drawable="storage_analyzer" />
@@ -649,6 +680,7 @@
     <item drawable="supersu" />
     <item drawable="swiftkey" />
     <item drawable="swing_game" />
+    <item drawable="sync_me" />
     <item drawable="system_app_remover" />
 
     <category title="T" />
@@ -657,6 +689,7 @@
     <item drawable="tapatalk" />
     <item drawable="tasker" />
     <item drawable="ted" />
+    <item drawable="telegram" />
     <item drawable="ten_ten" />
     <item drawable="tesla_unread" />
     <item drawable="textra" />
@@ -664,6 +697,7 @@
     <item drawable="the_rock_clock" />
     <item drawable="the_weather_channel" />
     <item drawable="themer" />
+    <item drawable="ticketmaster" />
     <item drawable="time" />
     <item drawable="tinder" />
     <item drawable="tiny_scanner" />
@@ -675,6 +709,8 @@
     <item drawable="transmission_game" />
     <item drawable="trello" />
     <item drawable="trigger" />
+    <item drawable="true_caller" />
+    <item drawable="true_messenger" />
     <item drawable="tumblr" />
     <item drawable="tune_in" />
     <item drawable="twilight" />
@@ -682,10 +718,12 @@
     <item drawable="twitter" />
 
     <category title="U" />
+    <item drawable="ua_record" />
     <item drawable="uber" />
     <item drawable="unclouded" />
     <item drawable="united" />
     <item drawable="usa_today" />
+    <item drawable="utorrent" />
 
     <category title="V" />
     <item drawable="viber" />
@@ -708,6 +746,7 @@
     <category title="W" />
     <item drawable="wallrox"/>
     <item drawable="waze" />
+    <item drawable="we_chat" />
     <item drawable="weather_bug" />
     <item drawable="weather_timeline" />
     <item drawable="weather_underground" />
@@ -724,6 +763,7 @@
     <item drawable="wunderlist" />
 
     <category title="X" />
+    <item drawable="xda_labs" />
     <item drawable="xfinity_account" />
     <item drawable="xfinity_go" />
     <item drawable="xfinity_remote" />
@@ -732,15 +772,19 @@
 
     <category title="Y" />
     <item drawable="yahoo_finance" />
+    <item drawable="yahoo_launcher" />
+    <item drawable="yahoo_mail" />
     <item drawable="yahoo_weather" />
     <item drawable="yelp" />
     <item drawable="youtube" />
+    <item drawable="youtube_studio" />
     <item drawable="yt_music" />
 
     <category title="Z" />
     <item drawable="zarchiver" />
     <item drawable="zedge" />
     <item drawable="zillow" />
+    <item drawable="zomato" />
     <item drawable="zooper_widget_free" />
     <item drawable="zooper_widget_pro" />
 
