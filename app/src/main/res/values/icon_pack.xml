@@ -13,6 +13,7 @@
         <item>accuweather</item>
         <item>acorns</item>
         <item>action_launcher</item>
+        <item>action_launcher</item>
         <item>adaway</item>
         <item>adm</item>
         <item>adobe_air</item>
@@ -33,6 +34,7 @@
         <item>airdroid</item>
         <item>ali_express</item>
         <item>allcast</item>
+        <item>altos_adventure</item>
         <item>amazon_alexa</item>
         <item>amazon_music</item>
         <item>amazon_photos</item>
@@ -41,6 +43,7 @@
         <item>american_airlines</item>
         <item>ampere</item>
         <item>amplify</item>
+        <item>android_authority</item>
         <item>android_auto</item>
         <item>android_device_manager</item>
         <item>android_pay</item>
@@ -99,15 +102,22 @@
         <item>backdrops</item>
         <item>bacon_reader</item>
         <item>bandsintown</item>
+        <item>barcode_scanner</item>
+        <item>bbc_iplayer</item>
+        <item>bbc_media_player</item>
         <item>bbc_news</item>
+        <item>bbc_sport</item>
         <item>bbc_weather</item>
+        <item>bbm</item>
         <item>bing_rewards</item>
         <item>bing_search</item>
         <item>bitfender_security</item>
         <item>bittorrent</item>
         <item>blackplayer_ex</item>
         <item>blackplayer</item>
+        <item>bleacher_report</item>
         <item>bloomberg</item>
+        <item>booking_com</item>
         <item>boomerang</item>
         <item>boxer_email</item>
         <item>burger</item>
@@ -123,6 +133,7 @@
         <item>cbs_sports</item>
         <item>cbs</item>
         <item>ccleaner</item>
+        <item>cf_lumen</item>
         <item>charity_miles</item>
         <item>chase_bank</item>
         <item>checkout_51</item>
@@ -135,6 +146,7 @@
         <item>chrome</item>
         <item>chromer</item>
         <item>chrooma</item>
+        <item>cifra_club</item>
         <item>citi_bank</item>
         <item>clean_master_lite</item>
         <item>clean_master</item>
@@ -157,8 +169,10 @@
         <item>contacts</item>
         <item>cortana</item>
         <item>coursera</item>
+        <item>credit_karma</item>
         <item>daily_art</item>
         <item>daily_mail</item>
+        <item>dailymotion</item>
         <item>dash_drive</item>
         <item>denver_post</item>
         <item>desmos</item>
@@ -209,6 +223,7 @@
         <item>flow_free</item>
         <item>flud</item>
         <item>flux</item>
+        <item>flynx</item>
         <item>fml</item>
         <item>foursquare</item>
         <item>fox_news</item>
@@ -217,6 +232,7 @@
         <item>geico</item>
         <item>geocaching</item>
         <item>gmail</item>
+        <item>go_90</item>
         <item>go_keyboard</item>
         <item>go_sms_pro</item>
         <item>go_speed</item>
@@ -251,7 +267,9 @@
         <item>guardian</item>
         <item>hangouts_dialer</item>
         <item>hangouts</item>
+        <item>happn</item>
         <item>hbo_go</item>
+        <item>heads_up</item>
         <item>help</item>
         <item>here_maps</item>
         <item>hhonors</item>
@@ -288,6 +306,7 @@
         <item>khan_academy</item>
         <item>kik</item>
         <item>kindle</item>
+        <item>kwgt_widget</item>
         <item>last_fm</item>
         <item>lastpass_authenticator</item>
         <item>lastpass</item>
@@ -309,6 +328,7 @@
         <item>lg_weather</item>
         <item>lg_world</item>
         <item>linkedin</item>
+        <item>lookout</item>
         <item>loop_blueprints</item>
         <item>loop</item>
         <item>lp_recovery</item>
@@ -327,6 +347,7 @@
         <item>mcdonalds</item>
         <item>mega</item>
         <item>memo</item>
+        <item>memrise</item>
         <item>metal_for_fb</item>
         <item>mi_fit</item>
         <item>microsoft_account</item>
@@ -339,6 +360,8 @@
         <item>music</item>
         <item>musical_ly</item>
         <item>musixmatch</item>
+        <item>muslim_pro_quran</item>
+        <item>mx_player</item>
         <item>my_fitness_pal</item>
         <item>my_verizon_mobile</item>
         <item>nba</item>
@@ -386,6 +409,7 @@
         <item>phone</item>
         <item>photo_math</item>
         <item>pics_art</item>
+        <item>piktures</item>
         <item>pinterest</item>
         <item>pixlr</item>
         <item>pizza_hut</item>
@@ -421,6 +445,7 @@
         <item>quizlet</item>
         <item>quizup</item>
         <item>reddit_is_fun</item>
+        <item>reddit_sync</item>
         <item>reddit</item>
         <item>reisplanner</item>
         <item>relay_for_reddit</item>
@@ -433,7 +458,9 @@
         <item>runkeeper</item>
         <item>s_health</item>
         <item>s_note</item>
+        <item>saavn</item>
         <item>samsung_browser</item>
+        <item>samsung_messages</item>
         <item>samsung_milk_music</item>
         <item>samsung_pay</item>
         <item>sd_maid_pro</item>
@@ -448,6 +475,7 @@
         <item>slack</item>
         <item>slacker</item>
         <item>slide_reddit</item>
+        <item>smart_ir_remote</item>
         <item>smart_switch</item>
         <item>snapchat</item>
         <item>snapseed</item>
@@ -479,6 +507,7 @@
         <item>tag_writer</item>
         <item>tapatalk</item>
         <item>tasker</item>
+        <item>td_bank</item>
         <item>ted</item>
         <item>telegram</item>
         <item>ten_ten</item>
@@ -488,6 +517,7 @@
         <item>the_rock_clock</item>
         <item>the_weather_channel</item>
         <item>themer</item>
+        <item>three_65_scores</item>
         <item>ticketmaster</item>
         <item>time</item>
         <item>tinder</item>
@@ -500,6 +530,7 @@
         <item>transmission_game</item>
         <item>trello</item>
         <item>trigger</item>
+        <item>trip_case</item>
         <item>true_caller</item>
         <item>true_messenger</item>
         <item>tumblr</item>
@@ -513,6 +544,7 @@
         <item>united</item>
         <item>usa_today</item>
         <item>utorrent</item>
+        <item>venmo</item>
         <item>viber</item>
         <item>video</item>
         <item>vine</item>
@@ -538,6 +570,7 @@
         <item>wells_fargo</item>
         <item>whats_app</item>
         <item>wifi_analyzer</item>
+        <item>wikipedia_beta</item>
         <item>wikipedia</item>
         <item>wish</item>
         <item>word</item>

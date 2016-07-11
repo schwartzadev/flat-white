@@ -91,11 +91,11 @@ public class HomeFragment extends BasePageFragment {
         ButterKnife.unbind(this);
     }
 
-    @OnClick(R.id.btn_top)
+    /*@OnClick(R.id.btn_top)
     public void onBtnTopPush() {
         startActivity(new Intent(Intent.ACTION_VIEW)
                 .setData(Uri.parse(String.format("https://www.paypal.me/schwartzadev/5", BuildConfig.APPLICATION_ID))));
-    }
+    }*/
 
     @OnClick(R.id.btn_mid)
     public void onBtnMidPush() {

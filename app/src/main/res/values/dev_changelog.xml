@@ -4,6 +4,9 @@
     <bool name="changelog_enabled">true</bool>
 
     <string-array name="changelog" translatable="false">
+        <item><![CDATA[ <b>1.2 (v12)</b> ]]></item>
+        <item><![CDATA[ 33 New Icons ]]></item>
+        <item><![CDATA[ Sony and Nextbit icons coming soon! ]]></item>
         <item><![CDATA[ <b>1.1 (v11)</b> ]]></item>
         <item><![CDATA[ 59 New Icons ]]></item>
         <item><![CDATA[ New wallpapers (ERC Software) ]]></item>
