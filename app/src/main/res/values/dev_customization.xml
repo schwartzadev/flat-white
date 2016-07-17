@@ -52,12 +52,12 @@
         Leave empty to disable the donation function.
     -->
     <string name="donate_license_key">
-
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxpGiXzsNU8Ovd2SZltmDG/z6JmARqj4DRsqkJ4JpRhCwvJn0zFZJuhzCKTfwZETHAhZCdE29fF10gMvPn2FKA0AY27WtorZFiVMUBlfuJ31wXTbmbLeV0wuXaY6KfgawiwUPlofGdfNrE2ilFyqLtl9EISpxalUH7F0bHiivjtpyQ7OfGUHu5tpP45Hf7rTeM6ZKKGEfE6bSZHOkXU5LVPlAD9zUUr+A7TnScU0Q4fUlnfMYpLZmroDzxLwetE9a33/JYoBpdt6S4idW9F/mq37cBsT5pX9a2M0z7AodpIhwjpAcl802pDJzOJrhhQjxxemKhjsUj4CNpYQzPXt2zwIDAQAB
     </string>
 
     <!-- Names of donation options, e.g. "Buy me a pizza!" -->
     <string-array name="donate_option_names">
-        <item>Buy me a soda! ($0.99)</item>
+        <item>Buy me a drink! ($0.99)</item>
         <item>Buy me a burger! ($5.00)</item>
         <item>Buy me a pizza! ($10.00)</item>
         <item>Buy me a meal! ($20.00)</item>
@@ -65,7 +65,7 @@
 
     <!-- Names of donation option IDs, taken from the Developer Console -->
     <string-array name="donate_option_ids">
-        <item>soda</item>
+        <item>drink</item>
         <item>burger</item>
         <item>pizza</item>
         <item>meal</item>
