@@ -9,8 +9,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.afollestad.materialdialogs.MaterialDialog;
 import com.afollestad.polar.BuildConfig;
 import com.afollestad.polar.R;
+import com.afollestad.polar.config.Config;
 import com.afollestad.polar.fragments.base.BasePageFragment;
 import android.app.Activity;
 import android.content.Intent;
@@ -91,11 +93,26 @@ public class HomeFragment extends BasePageFragment {
         ButterKnife.unbind(this);
     }
 
-    /*@OnClick(R.id.btn_top)
+    @OnClick(R.id.btn_top)
     public void onBtnTopPush() {
-        startActivity(new Intent(Intent.ACTION_VIEW)
-                .setData(Uri.parse(String.format("https://www.paypal.me/schwartzadev/5", BuildConfig.APPLICATION_ID))));
-    }*/
+        final String[] optionNames = Config.get().donateOptionsNames();
+        final String[] optionIds = Config.get().donateOptionsIds();
+        if (optionNames == null || optionIds == null || optionNames.length != optionIds.length) {
+            Toast.makeText(getActivity(), "Donation not configured correctly.", Toast.LENGTH_SHORT).show();
+            return;
+        }
+        new MaterialDialog.Builder(getActivity())
+                .title(R.string.donate)
+                .items(optionNames)
+                .itemsCallback(new MaterialDialog.ListCallback() {
+                    @Override
+                    public void onSelection(MaterialDialog dialog, View itemView, int which, CharSequence text) {
+                        MainActivity act = (MainActivity) getActivity();
+                        if (act != null)
+                            act.purchase(optionIds[which]);
+                    }
+                }).show();
+    }
 
     @OnClick(R.id.btn_mid)
     public void onBtnMidPush() {
