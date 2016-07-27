@@ -4,7 +4,11 @@
     <bool name="changelog_enabled">true</bool>
 
     <string-array name="changelog" translatable="false">
-        <item><![CDATA[ <b>2.0 (v14)</b> ]]></item>
+        <item><![CDATA[ <b>2.2 (v22)</b> ]]></item>
+        <item><![CDATA[ 61 New icons ]]></item>
+        <item><![CDATA[ <b>2.1 (v21)</b> ]]></item>
+        <item><![CDATA[ New Play Store Donation Options ]]></item>
+        <item><![CDATA[ <b>2.0 (v20)</b> ]]></item>
         <item><![CDATA[ 73 New icons ]]></item>
         <item><![CDATA[ Added Sony, Nextbit icons ]]></item>
         <item><![CDATA[ <b>1.3 (v13)</b> ]]></item>
