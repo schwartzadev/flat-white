@@ -4,6 +4,9 @@
     <bool name="changelog_enabled">true</bool>
 
     <string-array name="changelog" translatable="false">
+        <item><![CDATA[ <b>2.2.2 (v24)</b> ]]></item>
+        <item><![CDATA[ 64 New icons ]]></item>
+        <item><![CDATA[ Added Blackberry icons ]]></item>
         <item><![CDATA[ <b>2.2.1 (v23)</b> ]]></item>
         <item><![CDATA[ 37 New icons ]]></item>
         <item><![CDATA[ <b>2.2 (v22)</b> ]]></item>
@@ -19,26 +22,6 @@
         <item><![CDATA[ <b>1.1 (v11)</b> ]]></item>
         <item><![CDATA[ 59 New Icons ]]></item>
         <item><![CDATA[ New wallpapers (ERC Software) ]]></item>
-        <item><![CDATA[ <b>1.0 (v10)</b> ]]></item>
-        <item><![CDATA[ 80 New icons ]]></item>
-        <item><![CDATA[ Added Asus, HTC, CyanogenMod icons ]]></item>
-        <item><![CDATA[ New Google Play icons ]]></item>
-        <item><![CDATA[ Redesigned homepage ]]></item>
-        <item><![CDATA[ <b>0.9 (v9)</b> ]]></item>
-        <item><![CDATA[ 82 New icons ]]></item>
-        <item><![CDATA[ Added LG Icons ]]></item>
-        <item><![CDATA[ Reddit: Thank You! ]]></item>
-        <item><![CDATA[ <b>BETA 0.8 (v8)</b> ]]></item>
-        <item><![CDATA[ 16 New icons ]]></item>
-        <item><![CDATA[ New icons: calculator, contacts, Weatherbug ]]></item>
-        <item><![CDATA[ <b>BETA 0.7 (v7)</b> ]]></item>
-        <item><![CDATA[ 62 New icons ]]></item>
-        <item><![CDATA[ Instagram 8.0 icon ]]></item>
-        <item><![CDATA[ New app drawer icons ]]></item>
-        <item><![CDATA[ <b>BETA 0.6 (v6)</b> ]]></item>
-        <item><![CDATA[ 82 New icons ]]></item>
-        <item><![CDATA[ More fixes for the dashboard ]]></item>
-        <item><![CDATA[ New wallpapers ]]></item>
     </string-array>
 
 </resources>
