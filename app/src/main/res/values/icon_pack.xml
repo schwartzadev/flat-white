@@ -36,8 +36,10 @@
         <item>alarmy</item>
         <item>ali_express</item>
         <item>all_connect</item>
+        <item>all_in_one_toolbox</item>
         <item>allcast</item>
         <item>allegro</item>
+        <item>ally_banking</item>
         <item>altos_adventure</item>
         <item>amazon</item>
         <item>amazon_alexa</item>
@@ -109,7 +111,9 @@
         <item>asus_update</item>
         <item>asus_user_feedback</item>
         <item>asus_weather</item>
+        <item>asus_whats_next</item>
         <item>asus_zenflash</item>
+        <item>asus_zenfone</item>
         <item>atomas</item>
         <item>audials_radio</item>
         <item>audible</item>
@@ -131,6 +135,7 @@
         <item>bbc_weather</item>
         <item>bbm</item>
         <item>behance</item>
+        <item>betterment</item>
         <item>bing_rewards</item>
         <item>bing_search</item>
         <item>bitfender_security</item>
@@ -155,15 +160,19 @@
         <item>boxer_email</item>
         <item>bubbleupnp</item>
         <item>buienalarm</item>
+        <item>bukalapak</item>
         <item>burger</item>
         <item>busybox</item>
+        <item>busybox_meefik</item>
         <item>buzzfeed</item>
         <item>buzzfeed_video</item>
+        <item>cal_calendar</item>
         <item>calculator</item>
         <item>call_recorder</item>
         <item>cam_scanner</item>
         <item>camera</item>
         <item>candy_crush</item>
+        <item>capital_one</item>
         <item>car_2_go</item>
         <item>catch_game</item>
         <item>cbs</item>
@@ -177,6 +186,7 @@
         <item>checkpoints</item>
         <item>cheetah_locker</item>
         <item>cheetah_security</item>
+        <item>cheetah_security_lite</item>
         <item>chic_fil_a</item>
         <item>chrome</item>
         <item>chrome_beta</item>
@@ -208,10 +218,13 @@
         <item>color_switch</item>
         <item>comcast_connect</item>
         <item>contacts</item>
+        <item>contacts_plus</item>
         <item>convertbee</item>
         <item>cortana</item>
         <item>coursera</item>
+        <item>cpu_z</item>
         <item>credit_karma</item>
+        <item>curiosity</item>
         <item>daily_art</item>
         <item>daily_mail</item>
         <item>dailyhunt</item>
@@ -226,6 +239,7 @@
         <item>digg</item>
         <item>disa_messenger</item>
         <item>discord</item>
+        <item>discover_mobile</item>
         <item>disk_usage</item>
         <item>dogg_catcher</item>
         <item>dolphin_browser</item>
@@ -241,8 +255,10 @@
         <item>du_clean</item>
         <item>du_speed</item>
         <item>dubsmash</item>
+        <item>duckduckgo_search</item>
         <item>duet</item>
         <item>duolingo</item>
+        <item>e_rewards_mobile</item>
         <item>ebay</item>
         <item>edmodo</item>
         <item>edx</item>
@@ -253,6 +269,7 @@
         <item>es_file_pro</item>
         <item>espn</item>
         <item>espn_flb</item>
+        <item>etsy</item>
         <item>europa_zooper</item>
         <item>evernote</item>
         <item>every_dollar</item>
@@ -269,13 +286,16 @@
         <item>fidelity</item>
         <item>file_commander</item>
         <item>files</item>
+        <item>financius</item>
         <item>firefox</item>
         <item>firefox_beta</item>
         <item>firstbank</item>
+        <item>fit_notes</item>
         <item>fitbit</item>
         <item>five_hundred_px</item>
         <item>flash_keyboard</item>
         <item>flashfire</item>
+        <item>flashify</item>
         <item>flat_style_bar_indicators</item>
         <item>flat_white</item>
         <item>flayvr_gallery</item>
@@ -291,14 +311,17 @@
         <item>flym_reader</item>
         <item>flynx</item>
         <item>fml</item>
+        <item>focus_gallery</item>
         <item>foursquare</item>
         <item>fox_news</item>
         <item>freelytics_bodyweight</item>
         <item>frontier</item>
         <item>fx_files</item>
         <item>gallery</item>
+        <item>gamestop</item>
         <item>ganna</item>
         <item>geico</item>
+        <item>genisys_banking</item>
         <item>geocaching</item>
         <item>gett</item>
         <item>giffgaff</item>
@@ -316,8 +339,10 @@
         <item>google_authenticator</item>
         <item>google_cardboard</item>
         <item>google_cast</item>
+        <item>google_classroom</item>
         <item>google_clock</item>
         <item>google_docs</item>
+        <item>google_duo</item>
         <item>google_earth</item>
         <item>google_fit</item>
         <item>google_indic_keyboard</item>
@@ -337,6 +362,7 @@
         <item>google_translate</item>
         <item>google_translate</item>
         <item>google_wallet</item>
+        <item>grab</item>
         <item>greenify</item>
         <item>groupon</item>
         <item>gtasks</item>
@@ -369,6 +395,7 @@
         <item>huff_post</item>
         <item>hulu</item>
         <item>ia_writer</item>
+        <item>ifont_fonts</item>
         <item>ifttt</item>
         <item>ifunny</item>
         <item>imdb</item>
@@ -383,8 +410,10 @@
         <item>instagram</item>
         <item>instagram</item>
         <item>internet_speed_meter</item>
+        <item>ip_tools</item>
         <item>jet_audio</item>
         <item>jodel</item>
+        <item>joox_music</item>
         <item>juice_ssh</item>
         <item>just_eat</item>
         <item>just_park</item>
@@ -404,6 +433,8 @@
         <item>lastpass</item>
         <item>lastpass_authenticator</item>
         <item>layout</item>
+        <item>lazada_shopping</item>
+        <item>learn_python</item>
         <item>letgo</item>
         <item>lg_appbox</item>
         <item>lg_camera</item>
@@ -423,7 +454,9 @@
         <item>lg_world</item>
         <item>life_360</item>
         <item>line_free_calls</item>
+        <item>link_2_sd</item>
         <item>linkedin</item>
+        <item>linux_guide</item>
         <item>live_me</item>
         <item>localcast</item>
         <item>lookout</item>
@@ -433,6 +466,7 @@
         <item>lumosity</item>
         <item>lyft</item>
         <item>magisto_video</item>
+        <item>mal_math</item>
         <item>map_my_fitness</item>
         <item>map_my_fitness_plus</item>
         <item>map_my_ride</item>
@@ -475,6 +509,7 @@
         <item>my_family_tracker</item>
         <item>my_fitness_pal</item>
         <item>my_mail</item>
+        <item>my_stocks_portfolio</item>
         <item>my_u_mobile</item>
         <item>my_verizon_mobile</item>
         <item>my_vodacom</item>
@@ -535,10 +570,13 @@
         <item>open_table</item>
         <item>open_vpn_connect</item>
         <item>opera</item>
+        <item>opera_max</item>
         <item>opera_mini</item>
+        <item>orbot_proxy</item>
         <item>outlook</item>
         <item>overdrive</item>
         <item>paced_breathing</item>
+        <item>palabre_rss</item>
         <item>pancake</item>
         <item>pandora</item>
         <item>papers_co</item>
@@ -547,6 +585,7 @@
         <item>paytm</item>
         <item>pebble</item>
         <item>peel</item>
+        <item>percentage_calculator</item>
         <item>phone</item>
         <item>photo_math</item>
         <item>photogrid</item>
@@ -568,6 +607,7 @@
         <item>play_news</item>
         <item>play_store</item>
         <item>playstation</item>
+        <item>pleco_dictionary</item>
         <item>plex</item>
         <item>plus500</item>
         <item>pocket</item>
@@ -589,6 +629,7 @@
         <item>proton_mail</item>
         <item>psafe_booster</item>
         <item>pushbullet</item>
+        <item>qeep_chat</item>
         <item>qr</item>
         <item>qr</item>
         <item>quick_reboot_pro</item>
@@ -626,6 +667,7 @@
         <item>sd_maid</item>
         <item>sd_maid_pro</item>
         <item>secure_settings</item>
+        <item>series_guide</item>
         <item>settings</item>
         <item>setup_wizard</item>
         <item>seven_eleven</item>
@@ -720,6 +762,7 @@
         <item>ticktick</item>
         <item>tidal</item>
         <item>time</item>
+        <item>timely_alarm</item>
         <item>times_of_india</item>
         <item>tinder</item>
         <item>tiny_scanner</item>
@@ -799,6 +842,7 @@
         <item>wsj</item>
         <item>wunderlist</item>
         <item>wynk_music</item>
+        <item>xbox</item>
         <item>xda</item>
         <item>xda_labs</item>
         <item>xda_legacy</item>
