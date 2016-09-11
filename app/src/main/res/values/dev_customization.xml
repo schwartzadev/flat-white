@@ -23,7 +23,7 @@
     <string name="icon_request_email">schwartzadev@gmail.com</string>
 
     <!-- Max number of icons that can be sent per request. -1 disables max count. The interval must ALSO be set below. -->
-    <integer name="icon_request_maxcount">12</integer>
+    <integer name="icon_request_maxcount">8</integer>
 
     <!--
         The interval in seconds in which users must wait between sending icon requests. 0 or less disables it.

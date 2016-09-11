@@ -36,7 +36,7 @@
     </string-array>
 
     <string-array name="about_buttons_names">
-        <item>Website Coming Soon|Donate|Github</item>
+        <item>Website|Donate|Github</item>
         <item>Google Play</item>
         <item>Website|Google+|LinkedIn</item>
         <item>Dribbble|Google+</item>
@@ -44,7 +44,7 @@
     </string-array>
 
     <string-array name="about_buttons_links">
-        <item>http://schwartzadev.com|https://www.paypal.me/schwartzadev/5|https://github.com/werdna3232</item>
+        <item>http://aschwartz.me|https://www.paypal.me/schwartzadev/5|https://github.com/werdna3232</item>
         <item>https://play.google.com/store/apps/dev?id=7186677676076496336</item>
         <item>http://aidanfollestad.com|https://google.com/+AidanFollestad|https://www.linkedin.com/in/afollestad</item>
         <item>https://dribbble.com/tomwellington|https://google.com/+TomWellington24</item>
