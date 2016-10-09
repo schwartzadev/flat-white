@@ -4,6 +4,9 @@
     <bool name="changelog_enabled">true</bool>
 
     <string-array name="changelog" translatable="false">
+        <item><![CDATA[ <b>2.2.6 (v28)</b> ]]></item>
+        <item><![CDATA[ 72 New icons ]]></item>
+        <item><![CDATA[ Added plain number and letter icons ]]></item>
         <item><![CDATA[ <b>2.2.5 (v27)</b> ]]></item>
         <item><![CDATA[ 60 New icons ]]></item>
         <item><![CDATA[ <b>2.2.4 (v26)</b> ]]></item>
